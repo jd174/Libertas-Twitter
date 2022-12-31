@@ -1,1 +1,0 @@
-/home/jdoll/Documents/Twitter_API/Twitter_FrontendAPI/Auth/FrontEndCookies.json
