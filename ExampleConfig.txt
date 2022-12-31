@@ -1,0 +1,7 @@
+###Rename this file to config.ini after inputting your info
+[LOGGING]
+app_name = MyApp
+
+[FRONTEND]
+username = 
+password = 
