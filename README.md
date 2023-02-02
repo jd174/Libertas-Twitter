@@ -1,4 +1,4 @@
-# Tweet_Info_Gatherer
+# Libertas Twitter
 Gather info on tweets via the frontend API
 
 
